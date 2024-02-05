@@ -1,5 +1,7 @@
 # Silicon Valley
 
+![image](https://github.com/dotku/silicon-valley/assets/1519232/4af0b51a-27d1-4613-bdfa-62abc0785bdc)
+
 ## 中国
 
 2024 年，重新审视硅谷文化。
